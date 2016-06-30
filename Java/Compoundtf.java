@@ -1,9 +1,6 @@
-package p1;
-
 /**
  *	if문을 통해 비교연산자를 알아보는 프로그램
  */
-
 
 public class Compoundtf {
 

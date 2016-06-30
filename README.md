@@ -69,6 +69,40 @@
 <blockquote>
 <p><strong><em>CHAN</em></strong></p>
 </blockquote>
+</li><li><p><strong>16.06.30</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">내용</th>
+<th style="text-align:left">파일명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">while문</td>
+<td style="text-align:left">WhileBasic</td>
+</tr>
+<tr>
+<td style="text-align:left">while문과 피보나치수열</td>
+<td style="text-align:left">FiboSequance</td>
+</tr>
+<tr>
+<td style="text-align:left">while을 이용한 랜덤게임</td>
+<td style="text-align:left">RandomGame</td>
+</tr>
+<tr>
+<td style="text-align:left">do-while문</td>
+<td style="text-align:left">DoWhileBasic</td>
+</tr>
+<tr>
+<td style="text-align:left">do-while과 scanner를 이용한 평균값 구하기</td>
+<td style="text-align:left">WhileAverage</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong><em>CHAN</em></strong></p>
+</blockquote>
 </li></ul>
 <h2 id="android"><a name="android" href="#android"></a>Android</h2>
 <ul>
@@ -106,6 +140,21 @@
 </tr>
 <tr>
 <td style="text-align:left">RadioGroup</td>
+<td style="text-align:center"><strong><em>UK</em></strong></td>
+</tr>
+</tbody>
+</table>
+</li><li><p><strong>16.06.30</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">내용</th>
+<th style="text-align:center">작성자</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Spinner</td>
 <td style="text-align:center"><strong><em>UK</em></strong></td>
 </tr>
 </tbody>

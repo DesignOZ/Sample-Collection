@@ -1,5 +1,3 @@
-package p2;
-
 /**
  *	switch문에서 break의 기능을 알아보는 프로그램
  */

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex5(7.1)</string>
+    <string-array name="loca">
+        <item>왼쪽</item>
+        <item>오른쪽</item>
+        <item>가운데</item>
+    </string-array>
+</resources>

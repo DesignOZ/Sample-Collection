@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex4(7.1)</string>
+    <string-array name="idol">
+        <item>태연</item>
+        <item>하니</item>
+        <item>다현</item>
+    </string-array>
+</resources>

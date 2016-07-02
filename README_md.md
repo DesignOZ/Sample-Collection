@@ -3,6 +3,7 @@
 ## Java
 
 - **16.06.28**
+
 |내용|파일명|
 |:--------------|:-----|
 |기본 연산|Plus|
@@ -12,7 +13,9 @@
 |형변환|Typetrans|
 >***CHAN***
 
+
 - **16.06.29**
+
 |내용|파일명|
 |:---------------|:-----|
 |switch문		|SwitchBasic|
@@ -23,6 +26,7 @@
 > ***CHAN***
 
 - **16.06.30**
+
 |내용|파일명|
 |:---------------|:-----|
 |while문		|WhileBasic|
@@ -32,21 +36,58 @@
 |do-while과 scanner를 이용한 평균값 구하기|WhileAverage|
 > ***CHAN***
 
+
+- **16.06.30**
+
+|내용|파일명|
+|:---------------|:-----|
+|while문		|WhileBasic|
+|while문과 피보나치수열|FiboSequance|
+|while을 이용한 랜덤게임|RandomGame|
+|do-while문|DoWhileBasic|
+|do-while과 scanner를 이용한 평균값 구하기|WhileAverage|
+> ***CHAN***
+
+- **16.07.01**
+
+|내용|파일명|
+|:---------------|:-----|
+|for문		|ForBasic|
+|for문을 이용해 1부터 10까지 곱하기|ForMult|
+|for문을 이용한 구구단|ForMultTable|
+|반복문에서의 break|BreakBasic|
+|continue|ContinueBasic|
+> ***CHAN***
+
+
 ## Android
 
+
+
 - **16.06.28**
+
 |내용|작성자|
 |:-----------|:--------:|
 |Button(1~5) |***GIL***	|
 |LinearLayout|***UK***	|
 
+
 - **16.06.29**
+
 |내용|작성자|
 |:-----------|:--------:|
 |Button(6~10)|***GIL***	|
 |RadioGroup  |***UK***	|
 
+
 - **16.06.30**
+
 |내용|작성자|
 |:-----------|:--------:|
 |Spinner  |***UK***	|
+
+- **16.07.01**
+
+|내용|작성자|
+|:-----------|:--------:|
+|ListView  |***UK***	|
